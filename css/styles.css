@@ -70,6 +70,7 @@ ul {
   font-size: 44px;
   line-height: 1.4;
   text-align: center;
+  text-transform: uppercase;
 }
 .basic {
   background-color: #2f303a;
@@ -90,6 +91,7 @@ ul {
   font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
+  text-transform: uppercase;
 }
 .feature-list .text {
   font-size: 14px;
@@ -128,6 +130,8 @@ ul {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.63;
+
+  font-family: inherit;
 }
 .button-link:hover,
 .button-link:focus {
